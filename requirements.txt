@@ -10,3 +10,4 @@ pytesseract
 Pillow
 openpyxl
 plotly
+streamlit-plotly-events
